@@ -24,12 +24,11 @@ public class ShowOurWork {
      listOfShapes.add(triangle);
      listOfShapes.add(circle);
      
-     for(int i=0; i<listOfShapes.size(); i++);
-   
+     for (int i=0; i<listOfShapes.size(); i++);
+       int i = 0;
+       
     	System.out.println("Area ofshape is - " + listOfShapes.get(i).getArea());
-     
-     
-    	 
+            	 
      }
 	}
 
